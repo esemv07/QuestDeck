@@ -38,3 +38,31 @@ I think I will use Kailh Choc V1 switches and then I could use custom MBK keycap
 
 ### Time Spent on This Day: 6 hours 
 `Research: 5 hours` `Planning: 1 hour`
+
+<br><br>
+## Day 2: 15th June 2025
+`Schematic` `PCB`
+
+I wanted to try and smash out the keyboard part of the schematic as I already have experience designing keyboard schematics so it shouldn't be too hard. First I decided where the keyboard would be split and designed a schematic around that. I named all the keys to make everythin easier to keep track of:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8488722ce3b4808e45d48003f7c28e3f2e806d56_schematic-15_06_2025-1.png" width="1000" title="Initial Keyboard Schematic">
+
+I decided to use the KB2040, an RP2040 based board, for my keyboard. This is because it has USB breakout meaning that I can pass the USB signal from the KB2040 to the Raspberry Pi through the PCB, rather than having to plug it in and manage those wires. This just helps with the size constraints of the project.
+
+I will put the KB2040 on the 'Dice Roller Screen' PCB as there is not enough space on the keyboard. I can pass the row/column signals through an FPC cable from the keyboard to the KB2040. On that PCB there will also be a 128x32 OLED display which will display the dice rolling. I have also used this before in my Hackpad so it shouldn't be to hard.
+
+I will have to use an IO Expander to handle all these signals as the KB2040 does not have enough pins. Again, I have used this before. Here is what the FPC to the 'Dice Roller Screen' PCB part looks like:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/40a6ac7d228b56fc87976369a3e732df78b00519_schematic-15_06_2025-2.png" width="350" title="Dice Roller Screen PCB">
+
+And the whole thing:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5c4de78c4a383bba08c6a83c77156618eb4082d_schematic-15_06_2025-3.png" width="1000" title="Schematic So Far">
+
+Next I will handle how the keyboards will be on separate PCBs. I can again use FPC cables to pass the signals to the centre PCB. Here is what that looks like:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9e11599ea36befb1c0a37b82192a368c5de49a5b_schematic-15_06_2025-4.png" height="350" title="Separated Keyboards Left"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e31712bb97d1e7f257610da8c80243b7e5bc127e_schematic-15_06_2025-5.png" height="350" title="Separated Keyboards Centre">
+
+`Schematic: +4 hours`
+
+***+ 4 hours***
