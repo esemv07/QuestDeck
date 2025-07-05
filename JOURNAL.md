@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 6
+Total hours so far: 14
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -43,7 +43,11 @@ I think I will use Kailh Choc V1 switches and then I could use custom MBK keycap
 ## Day 2: 15th June 2025
 `Schematic` `PCB`
 
-I wanted to try and smash out the keyboard part of the schematic as I already have experience designing keyboard schematics so it shouldn't be too hard. First I decided where the keyboard would be split and designed a schematic around that. I named all the keys to make everythin easier to keep track of:
+I wanted to try and smash out the keyboard part of the schematic as I already have experience designing keyboard schematics so it shouldn't be too hard. First I decided where the keyboard would be split and what special keys (such as Roll for the dice roller) I would have for it. I used [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/) to make the layout:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/31d78fc3b6d83df66f42fd761ebc0d09918d2196_keyboard-layout.png" width="1000" title="Initial Keyboard Layout">
+
+I then designed the schematic around this design. I named all the keys to make everythin easier to keep track of:
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8488722ce3b4808e45d48003f7c28e3f2e806d56_schematic-15_06_2025-1.png" width="1000" title="Initial Keyboard Schematic">
 
@@ -61,8 +65,25 @@ And the whole thing:
 
 Next I will handle how the keyboards will be on separate PCBs. I can again use FPC cables to pass the signals to the centre PCB. Here is what that looks like:
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9e11599ea36befb1c0a37b82192a368c5de49a5b_schematic-15_06_2025-4.png" height="350" title="Separated Keyboards Left"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e31712bb97d1e7f257610da8c80243b7e5bc127e_schematic-15_06_2025-5.png" height="350" title="Separated Keyboards Centre">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9e11599ea36befb1c0a37b82192a368c5de49a5b_schematic-15_06_2025-4.png" width="400" title="Separated Keyboards Left"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e31712bb97d1e7f257610da8c80243b7e5bc127e_schematic-15_06_2025-5.png" width="252.5" title="Separated Keyboards Centre">
 
 `Schematic: +4 hours`
 
 ***+ 4 hours***
+
+I decided to attempt the long process of putting all the keys in their correct spots with all the spacing for the PCB. 
+
+Because I decided to use Choc v1s there weren't good footprints in EasyEDA for the different size keys. I decided to instead use 1u footprints for all of them and manually calculate the spacings.
+
+For the initial PCB placings I decided to just make it as one unified keyboard and then I can separate them after and add the board outlines for each. Here's what it looks like as the one part keyboard without the routing (ratlines hidden):
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/89b0f252f0d627bbedb36bd3627d85c5cafb7154_pcb-15_06_2025.png" width="1000" title="Dice Roller Screen PCB">
+
+`PCB: +4 hours`
+
+***+ 4 hours***
+
+### Time Spent on This Day: 8 hours 
+`Schematic: 4 hours` `PCB: 4 hours`
+
+<br><br>
