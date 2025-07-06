@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 14
+Total hours so far: 18
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -77,7 +77,7 @@ Because I decided to use Choc v1s there weren't good footprints in EasyEDA for t
 
 For the initial PCB placings I decided to just make it as one unified keyboard and then I can separate them after and add the board outlines for each. Here's what it looks like as the one part keyboard without the routing (ratlines hidden):
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/89b0f252f0d627bbedb36bd3627d85c5cafb7154_pcb-15_06_2025.png" width="1000" title="Dice Roller Screen PCB">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/89b0f252f0d627bbedb36bd3627d85c5cafb7154_pcb-15_06_2025.png" width="1000" title="Keyboard PCB No Routing">
 
 `PCB: +4 hours`
 
@@ -85,5 +85,28 @@ For the initial PCB placings I decided to just make it as one unified keyboard a
 
 ### Time Spent on This Day: 8 hours 
 `Schematic: 4 hours` `PCB: 4 hours`
+
+<br><br>
+## Day 3: 16th June 2025
+`PCB`
+
+I first did the routing for the keyboard as well as splitting it apart and adding board outlines.
+
+I made sure that on each split both FPC sockets were at the same height to make sure the cables will be able to connect:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e8ce688e658a073f081f463d7137ddc5c5d7293_pcb-16_06_2025-1.png" width="1000" title="Keyboard PCB Separated with Routing">
+
+`PCB: +3 hours`
+
+I then routed the 'Dice Roller Screen' PCB which also has an FPC cable. This FPC cable was harder to route as it is much bigger. I had to also make sure that it was lined up with the Centre Keyboard FPC above it. Here's what the 'Dice Roller Screen' PCB looks like as well as the corresponding FPC on the Centre Keyboard:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/fbfcd1a2758ff04adc24220ccd931a4bf9449654_pcb-16_06_2025-2.png" width="400" title="Dice Roller Screen PCB"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/39b7510bf573c067688de72827506f44c6eb24c8_pcb-16_06_2025-3.png" width="410" title="Centre Keyboard FPC">
+
+`PCB: +1 hour`
+
+***+4 hours***
+
+### Time Spent on This Day: 4 hours 
+`PCB: 4 hours`
 
 <br><br>
