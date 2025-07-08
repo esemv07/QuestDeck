@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 18
+Total hours so far: 21
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -108,5 +108,34 @@ I then routed the 'Dice Roller Screen' PCB which also has an FPC cable. This FPC
 
 ### Time Spent on This Day: 4 hours 
 `PCB: 4 hours`
+
+<br><br>
+## Day 4: 21th June 2025
+`Schematic` `PCB`
+
+I added the 'Top Screen' PCB to the schematic. The mainboard is the Raspberry Pi Zero 2 W and it is powered by a 2400mAh LiPo Battery. I am using a TP4056 for a charging module with USB-C, and also with a MT3608 boost module for the charging system. It is also connected to the rest of the PCBs through another FPC connector. Here is what that looks like in my schematic:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b3e2e2ee73751aca971d882cc937b9e537c1c095_schematic-21_06_2025-1.png" width="500" title="Top Screen Schematic">
+
+For the USB connection of the keyboard, I used the USB breakout on the KB2040 but on the RPi the USB breakout is on the underneath of the board. I don't think it is feasible to use the underneath of the board as it will be soldered to the PCB.
+
+I have a makeshift solution that I just have to hope will work. I am going to use a USB breakout like this:
+
+<img src="https://m.media-amazon.com/images/I/51JgDElwvvL._AC_SL1000_.jpg" width="300" title="USB Module">
+
+Plug it into the Pi and then run wires between the breakout and some pads I have put on the PCB. No idea if this will work but I suppose I will find out...
+
+`Schematic: +2 hours`
+
+I have wired it all up on the PCB and here's what it looks like:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/20658f6b72c7292f33134f8388e809b978d3e7b7_pcb-21_06_2025.png" width="500" title="Top Screen PCB">
+
+`PCB: +1 hour`
+
+***+3 hours***
+
+### Time Spent on This Day: 3 hours 
+`Schematic: 2 hours` `PCB: 1 hour`
 
 <br><br>
