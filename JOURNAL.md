@@ -166,7 +166,7 @@ I have found [these keycaps](https://www.printables.com/model/549143-mobop-retro
 
 When I get to making the keycaps I can make the inlay legends in Fusion, which should not be too hard. But I'm not going to add them until later.
 
-`Research: +5hours`
+`Research: +5 hours`
 
 ***+5 hours***
 
