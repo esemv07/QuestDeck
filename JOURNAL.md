@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 21
+Total hours so far: 26
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -137,5 +137,40 @@ I have wired it all up on the PCB and here's what it looks like:
 
 ### Time Spent on This Day: 3 hours 
 `Schematic: 2 hours` `PCB: 1 hour`
+
+<br><br>
+## Day 5: 22th June 2025
+`Research`
+
+I did a whole lot of research on custom MBK keycaps and here's what I've figured out:
+
+For my keycaps, I have some interesting sizes, such as 4.75u. Although 2.25u, 1.75u, and 1.25u are not considered odd sizes, the place I was going to get the custom keycaps from, does not have them. They only have 1u, 1.5u and 2u.
+
+I can no longer use FK Custom for my custom keycaps, and as they are the only place I can find that do custom MBK keycaps, I am going to have to find another solution. I've looked for similar style Choc v1 low profile custom options but can't seem to find any.
+
+My first thought is to change to Choc V2 which have a Cherry MX stem, as then there are many more options for custom keycaps. I don't particularly want to do this as they are slightly bigger, and it also just wasn't really my original goal.
+
+I have looked for other low profile switch options so that I can get keycaps. I looked at Kailh X switches which are basically more DIYable Scissor Switches. 
+
+<img src="https://ae-pic-a1.aliexpress-media.com/kf/HTB1p3CvLQzoK1RjSZFlq6yi4VXa9.jpg_220x220q75.jpg_.avif" width="250" title="Kailh X Scissor Switches">
+
+Although they have very mixed reviews about the longevity of the switch, and will also be hard to add as a footprint to my PCB. Although they seem super interesting so maybe I will try them out for another project. I also did research into maybe making a membrane keyboard as that gives the option for being super low profile. I pretty quickly realised this isn't really possible and it would be very hard to make, get produced, and very expensive.
+
+So I guess it's back to the Choc V1s. I did some research into how to make my own custom keycaps with legends, but this involves materials and skills I don't have. But what if I just 3D print them?
+
+I think this is what I'll do. I can use multicolour inlay on the top of the keycap (printing top down) to give the legends. This also means for the keys I have such as Roll, I can fully design what the legend will look like in Fusion.
+
+I have found [these keycaps](https://www.printables.com/model/549143-mobop-retro-inspired-keycap-set) which fit the vibe really well and are also flat on top making it much easier for the legends.
+
+<img src="https://media.printables.com/media/prints/549143/images/4480174_4b2cdb35-0297-4858-813e-8e68bc6c560a/thumbs/inside/1600x1200/jpg/img_5996.webp" width="500" title="Retro Typewriter Choc Keycaps">
+
+When I get to making the keycaps I can make the inlay legends in Fusion, which should not be too hard. But I'm not going to add them until later.
+
+`Research: +5hours`
+
+***+5 hours***
+
+### Time Spent on This Day: 5 hours 
+`Research: 5 hours`
 
 <br><br>
