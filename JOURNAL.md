@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 40
+Total hours so far: 45
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -261,6 +261,33 @@ I then added little hinges on the spine that will have a metal rod go through th
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f20f3ee76c252c49732338cefaf35d18cc3325c2_cad-1_07_2025-1.png" height="300" title="CAD-1/07/2025-2"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/abed224bf7038571b4d20ecd0711a48e4e1b15b1_cad-1_07_2025-2.png" height="300" title="CAD-1/07/2025-3">
 
 `CAD: +2 hours`
+
+***+5 hours***
+
+### Time Spent on This Day: 5 hours 
+`CAD: 5 hours`
+
+<br><br>
+## Day 10: 1st July 2025
+`CAD`
+
+I remodelled the space for the top screen so that there is the right space for the screen and PCB:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/538cd4350233023ac947cc3dc42c819ac2ea1785_cad-2_07_2025-1.png" height="300" title="CAD-2/07/2025-1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4fb1e0a05cf718bf134387fc8ac1cf52fb97535e_cad-2_07_2025-2.png" height="300" title="CAD-2/07/2025-2">
+
+`CAD: +2 hours`
+
+I also remodelled the enclosure for the dice roller screen, so that it fits well between the keyboard hinges, and can be separated into 2 parts so that it can be put together:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a67a1d6be60f965e4c0334c5bf85918b7c272185_cad-2_07_2025-3.png" height="300" title="CAD-2/07/2025-3"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c125b47e3515edbaca8124fa86085bd3843a293c_cad-2_07_2025-4.png" height="300" title="CAD-2/07/2025-4">
+
+I then separated it into 2 parts that screw together and and mounting spots for the PCB. I added screw holes on tabs off the side so that it can connect as securely as possible.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/22608c1368aaff7f023d319573502f78cd6fe8a6_cad-2_07_2025-5.png" width="500" title="CAD-1/07/2025-5">
+
+I also added a slot for the hinge to sit.
+
+`CAD: +3 hours`
 
 ***+5 hours***
 
