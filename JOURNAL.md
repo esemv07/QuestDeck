@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 30
+Total hours so far: 32
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -205,5 +205,22 @@ I'm pretty sure that should allow the keyboard to fold nicely... hopefully
 
 ### Time Spent on This Day: 4 hours 
 `CAD: 4 hours`
+
+<br><br>
+## Day 7: 29th June 2025
+`CAD`
+
+I next modelled the enclosure for the top screen to go in, that will hinge to the main body:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/239cfb22102aae8c5d5d6ed78e78b40c16798a27_cad-29_06_2025-1.png" height="300" title="CAD-29/06/2025-1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3af7e99c93be41d8af75a30b6e7cef942a63a90_cad-29_06_2025-2.png" height="300" title="CAD-29/06/2025-2">
+
+I have decided for the dice roller screen, instead of having in slide out, it will also hinge and sit against the body when closed (as shown in the image above).
+
+`CAD: +2 hours`
+
+***+2 hourd***
+
+### Time Spent on This Day: 2 hours 
+`CAD: 2 hours`
 
 <br><br>
