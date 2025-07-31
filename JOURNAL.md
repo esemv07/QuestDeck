@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 26
+Total hours so far: 30
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -172,5 +172,38 @@ When I get to making the keycaps I can make the inlay legends in Fusion, which s
 
 ### Time Spent on This Day: 5 hours 
 `Research: 5 hours`
+
+<br><br>
+## Day 6: 28th June 2025
+`CAD`
+
+I first exported the PCBs as .STEP files from EasyEDA and imported them into Fusion to start the case.
+
+I started modelling the case based on the original designs I had and here's what that looks like:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8af223b39d4b246aac92f3808d6617e6ddba28b0_cad-28_06_2025-1.png" width="500" title="CAD-28/06/2025-1">
+
+`CAD: +1 hour`
+
+I realised there are a few issues with this design:
+
+- First, I wanted the dice roller screen to slide out from under the keyboard, but with the height of the PCBs and the limited space, this will not be an option
+
+- Second, if I tried fold the keyboard using this design, it would just get stuck as there is not enough space allowed for the hinge motion.
+
+I will leave issue 1 for later, but attempt to address issue 2 now. I widened the hinge that is there as well as making a slider path that will have a pin meaning that the keyboard can slide further out as it folds preventing it from getting stuck.
+
+Here's what that looks like so far:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d0c639320425dee908219df5d107c0e47d818d34_cad-28_06_2025-2.png" height="250" title="CAD-28/06/2025-2"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/864e8e8c6a0f394e4346cbe4d8b0b2e3c78304c7_cad-28_06_2025-3.png" height="250" title="CAD-28/06/2025-3">
+
+I'm pretty sure that should allow the keyboard to fold nicely... hopefully
+
+`CAD: +3 hours`
+
+***+4 hours***
+
+### Time Spent on This Day: 4 hours 
+`CAD: 4 hours`
 
 <br><br>
