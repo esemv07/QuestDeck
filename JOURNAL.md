@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 32
+Total hours so far: 35
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -224,3 +224,24 @@ I have decided for the dice roller screen, instead of having in slide out, it wi
 `CAD: 2 hours`
 
 <br><br>
+## Day 8: 30th June 2025
+`CAD`
+
+I first recloured everything in the CAD to make it more accurate to what I want it to look like:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4a6c12a2cbb8e3e2273099f95df89f7fdd32aa81_cad-30_06_2025-1.png" width="500" title="CAD-30/06/2025-1">
+
+I then realised the the top screen can hinge from the spot it it hinging from; it is currently connected to the bottom of the left and right keyboards, but when the keyboard opens, it can't connect to there.
+
+In order to fix that, I can add a spine and connect it to that. The spine can then connect to the bottom of the centre keyboard which will stay in the same position the whole time.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e2f4e0304e33701cfbf3e5a8fee5333aa87fcd0_cad-30_06_2025-3.png" height="300" title="CAD-30/06/2025-2"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/98128ed898b14f5c32ddf7fb62e75b95c8e88ecc_cad-30_06_2025-2.png" height="300" title="CAD-30/06/2025-3">
+
+I also changed the design on the book cover and I think it looks pretty cool.
+
+`CAD: +3 hours`
+
+***+3 hourd***
+
+### Time Spent on This Day: 3 hours 
+`CAD: 3 hours`
