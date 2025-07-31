@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 35
+Total hours so far: 40
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -218,7 +218,7 @@ I have decided for the dice roller screen, instead of having in slide out, it wi
 
 `CAD: +2 hours`
 
-***+2 hourd***
+***+2 hours***
 
 ### Time Spent on This Day: 2 hours 
 `CAD: 2 hours`
@@ -241,7 +241,30 @@ I also changed the design on the book cover and I think it looks pretty cool.
 
 `CAD: +3 hours`
 
-***+3 hourd***
+***+3 hours***
 
 ### Time Spent on This Day: 3 hours 
 `CAD: 3 hours`
+
+<br><br>
+## Day 9: 1st July 2025
+`CAD`
+
+I blocked out a quick enclosure for the dice roller screen that will also hinge of the bottom of the centre keyboard:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/54bbe1b415dadab0b93fa1e530b34e929f0a91cd_cad-1_07_2025-3.png" width="500" title="CAD-1/07/2025-1">
+
+`CAD: +3 hours`
+
+I then added little hinges on the spine that will have a metal rod go through the middle to hold the parts together and allow the to hinge:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f20f3ee76c252c49732338cefaf35d18cc3325c2_cad-1_07_2025-1.png" height="300" title="CAD-1/07/2025-2"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/abed224bf7038571b4d20ecd0711a48e4e1b15b1_cad-1_07_2025-2.png" height="300" title="CAD-1/07/2025-3">
+
+`CAD: +2 hours`
+
+***+5 hours***
+
+### Time Spent on This Day: 5 hours 
+`CAD: 5 hours`
+
+<br><br>
