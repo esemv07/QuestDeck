@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 45
+Total hours so far: 47
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -268,7 +268,7 @@ I then added little hinges on the spine that will have a metal rod go through th
 `CAD: 5 hours`
 
 <br><br>
-## Day 10: 1st July 2025
+## Day 10: 2nd July 2025
 `CAD`
 
 I remodelled the space for the top screen so that there is the right space for the screen and PCB:
@@ -293,5 +293,26 @@ I also added a slot for the hinge to sit.
 
 ### Time Spent on This Day: 5 hours 
 `CAD: 5 hours`
+
+<br><br>
+## Day 10: 8th July 2025
+`CAD`
+
+I designed the dice roller screen to look like a lock on the book. I am going to print it in gold filament because I think that will look super cool. Here's what that looks like, and also what it would look like without the lock part on it:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d69014623e267fc5efa03c039b5d6f00e025f653_cad-8_07_2025-1.png" height="300" title="CAD-8/07/2025-1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f41d03d6489d0f3f79d070ddf6d574d2c60a25b3_cad-8_07_2025-2.png" height="300" title="CAD-8/07/2025-2">
+
+Here's what the full CAD model looks like so far:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/58244dd715e07faa0dfe6c4dd9cabb6ea5899e11_cad-8_07_2025-3.png" width="500" title="CAD-8/07/2025-3">
+
+I'm so happy with how it's looking so far!!!
+
+`CAD: +2 hours`
+
+***+2 hours***
+
+### Time Spent on This Day: 2 hours 
+`CAD: 2 hours`
 
 <br><br>
