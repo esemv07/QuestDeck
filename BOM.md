@@ -19,3 +19,8 @@
 |     PCB Connectors ↓     |    26 Pin FFC Cable Connector     |    $7.14    |   Free   |  1 x 2pcs  |    DigiKey Aus   |                      | [FH12-26S-0.5SH(55)](https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/FH12-26S-0-5SH-55/1110323?srsltid=AfmBOopqF7o7ptaexeaPUv0DdIia_AySKFMMV1k5vwqKbBNBlBynJ4EH) |
 |                          |     9 Pin FFC Cable Connector     |    $7.44    |   Free   |  1 x 4pcs  |    DigiKey Aus   |                      | [FH19C-9S-0.5SH(10)](https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/FH19C-9S-0-5SH-10/4283425?srsltid=AfmBOoqcyKZkMxO_LfuhkB4uOfiW8o3IG8r2A8k8QkMFRSA8k5cvBsd-) |
 |                          |    10 Pin FFC Cable Connector     |    $4.36    |   Free   |  1 x 2pcs  |    DigiKey Aus   |                      | [FH12-10S-0.5SH(55)](https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/FH12-10S-0-5SH-55/1110314?srsltid=AfmBOoqEdsP7pIlvfwTyiOzf9GYr_4whu2x5bs80QqxoZjZm51vtzrAO) |
+|          PCBs ↓          |         Centre Keyboard           |    $15.09   |  $12.66  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |          Left Keyboard            |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |          Right Keyboard           |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |        Dice Roller Screen         |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |            Top Screen             |    %15.71   |  $12.10  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
