@@ -335,3 +335,26 @@ For some reason I had a lot of issues with changing the size of the integrated h
 `CAD: 3 hours`
 
 <br><br>
+## Day 13: 19th July 2025
+`Firmware`
+
+I made a custom configuration for the keyboard using QMK. None of the configurator templates match my layout so I had to write the code myself.
+
+I have written the firmware for the keys and added a spot for the macro for the 'roll' key. I want to configure the macro when I get the parts as I am having a really hard time figuring out the inputs without being able to test.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a21c801ee0ee17677331836a0366b544ae43eca0_firmware-19_07_2025-1.png" width="500" title="Firmware-19/07/2025-1">
+
+I also added the layout of the keyboard in the firmware file as in the image above, because why not.
+
+It's kinda exciting, I'm so close to finishing.
+
+I'm next going to add the mounting for the keyboard PCBs and I think that is the last thing I need to do... hopefully
+
+`Firmware: +3 hours`
+
+***+3 hours***
+
+### Time Spent on This Day: 3 hours 
+`Firmware: 3 hours`
+
+<br><br>
