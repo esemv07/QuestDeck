@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 50
+Total hours so far: 53
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -358,3 +358,26 @@ I'm next going to add the mounting for the keyboard PCBs and I think that is the
 `Firmware: 3 hours`
 
 <br><br>
+## Day 14: 30th July 2025
+`PCB` `CAD`
+
+I added mounting holes to the PCBs so that I can mount them to the case:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/57323536f914811dec7a305a5efddad53d6bc986_pcb-30_07_2025-1.png" width="500" title="PCB-30/07/2025-1">
+
+I then added corresponding mounts for it on the case:
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b09b07b028de605e3cc739c1b2b27fe9ffed4c04_cad-30_07_2025-1.png" height="300" title="CAD-30/07/2025-1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/102e6aa40c3ac50bdc2e007bb2c5e97580266a26_cad-30_07_2025-2.png" height="300" title="CAD-30/07/2025-2">
+
+I have done some final renders of what the QuestDeck looks like and I'm honestly so happy with this!!!
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/19c106db9431470c5a2ac108fad42a387e884791_cad-30_07_2025-3.png" height="300" title="CAD-30/07/2025-3"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37f0036d1e122edd50f2dcf40fd76e1f781b7ee9_cad-30_07_2025-4.png" height="300" title="CAD-30/07/2025-4">
+
+`PCB: +1 hour` `CAD: +2 hours`
+
+***+3 hours***
+
+## :partying_face::partying_face:
+
+### Time Spent on This Day: 3 hours
+`PCB: 1 hour` `CAD: 2 hours`
