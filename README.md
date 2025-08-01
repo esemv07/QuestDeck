@@ -27,6 +27,7 @@ I love playing TTRPGs such as DnD as well as solo TTRPGs. I like to take notes o
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/37f0036d1e122edd50f2dcf40fd76e1f781b7ee9_cad-30_07_2025-4.png" width="500" title="Final CAD 2">
 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/58244dd715e07faa0dfe6c4dd9cabb6ea5899e11_cad-8_07_2025-3.png" width="500" title="Final CAD 3">
 
 ### Firmware
 
