@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 47
+Total hours so far: 50
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
@@ -295,7 +295,7 @@ I also added a slot for the hinge to sit.
 `CAD: 5 hours`
 
 <br><br>
-## Day 10: 8th July 2025
+## Day 11: 8th July 2025
 `CAD`
 
 I designed the dice roller screen to look like a lock on the book. I am going to print it in gold filament because I think that will look super cool. Here's what that looks like, and also what it would look like without the lock part on it:
@@ -314,5 +314,24 @@ I'm so happy with how it's looking so far!!!
 
 ### Time Spent on This Day: 2 hours 
 `CAD: 2 hours`
+
+<br><br>
+## Day 12: 10th July 2025
+`CAD`
+
+As I already added the hinge slots to the dice roller screen, I also added them to the spine, as well as adding bigger hinges as I don't think the ones I had would be strong enough.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/03e16a057abd437a1ecb395c244907a904c87c73_cad-10_07_2025-1.png" height="300" title="CAD-10/07/2025-1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/02a2801615da2850a4ff925638523ce4e4fdc8b8_cad-10_07_2025-2.png" height="300" title="CAD-10/07/2025-2"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f3731a746be19b9bb3139df9558a6ef72433f05_cad-10_07_2025-3.png" height="300" title="CAD-10/07/2025-3">
+
+I think I will just glue the hinges in rather than screwing them as there is no info on the product of the hole size or location. If that doesn't work then I will measure the hinge when it arrives and add the holes based on that.
+
+For some reason I had a lot of issues with changing the size of the integrated hinge, it kept messing up the timeline and changing everything else which was really annoying. I ended up getting it working but it took way longer than it should have.
+
+`CAD: +3 hours`
+
+***+3 hours***
+
+### Time Spent on This Day: 3 hours 
+`CAD: 3 hours`
 
 <br><br>
