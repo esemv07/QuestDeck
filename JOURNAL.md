@@ -5,7 +5,7 @@ description: "A writerDeck style Cyberdeck design specifically for TTRPGs"
 created_at: "2025-06-12"
 ---
 
-Total hours so far: 53
+Total hours so far: 56
 
 ## Day 1: 14th June 2025
 `Research` `Planning`
