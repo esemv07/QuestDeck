@@ -35,6 +35,6 @@ I love playing TTRPGs such as DnD as well as solo TTRPGs. I like to take notes o
 
 ## About the Design Process
 
-You can find my whole designing process in my [Journal](https://github.com/esemv07/QuestDeck/blob/main/JOURNAL.md) file, and my parts list with links in my [BOM](https://github.com/esemv07/QuestDeck/blob/main/BOM.md) file.
+You can find my whole designing process in my [Journal](https://github.com/esemv07/QuestDeck/blob/main/JOURNAL.md) file, and my parts list with links in my [BOM.md](https://github.com/esemv07/QuestDeck/blob/main/BOM.md) file.
 
 I designed this project for [Highway](https://highway.hackclub.com/), a [Hackclub](https://hackclub.com/) program where you can get grants for hardware projects you design.
