@@ -17,9 +17,19 @@ I love playing TTRPGs such as DnD as well as solo TTRPGs. I like to take notes o
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/84754e958fff1d9ef64773328dd6946d347f13b3_screenshot_2025-08-01_at_12.20.29___pm.png" width="500" title="Schematic">
 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f440bc7be09aa80cc5cec1b9e188d7822c974704_centre_keyboard_schematic.png" width="800" title="Centre Keyboard Schematic">
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5e15db86e6071026def67b1085b77fc96b00f43b_left_keyboard_schematic.png" height="400" title="Left Keyboard Schematic"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad3fea6cada88b7da7d11f8fde77448d5b9e20b6_right_keyboard_schematic.png" height="400" title="Right Keyboard Schematic">
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6f4e63aa30371dda9464ff7aa41862dbd2293c1e_top_screen_schematic.png" height="400" title="Top Screen Schematic"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/773720e35ea70148d96d6dbacf18e6107f6d0e15_dice_roller_screen_schematic.png" height="400" title="Dice Roller Screen Schematic">
+
 ### PCB
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6dd18a86aa430aa352974118f8e90609b239d0bb_screenshot_2025-08-01_at_12.18.39___pm.png" width="500" title="PCB">
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ec0094416123911add4360ee3c47d36425301ba4_pcb_3d_front.png" width="500" title="PCB">
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3efee8171b7aaebf96510910b58edb4fe920df14_pcb_3d_back.png" width="500" title="PCB">
 
 ### Final CAD
 
