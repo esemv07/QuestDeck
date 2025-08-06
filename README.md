@@ -43,6 +43,33 @@ I love playing TTRPGs such as DnD as well as solo TTRPGs. I like to take notes o
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a21c801ee0ee17677331836a0366b544ae43eca0_firmware-19_07_2025-1.png" width="500" title="Firmware">
 
+## Bill of Materials
+
+|         Category         |               Item                | Price (AUD) | Shipping |  Quantity  |      Vendor      | Notes/Considerations |         Link         |
+|--------------------------|-----------------------------------|-------------|----------|------------|------------------|----------------------|----------------------|
+|      Keyboard PCBs ↓     |   Kailh Choc Low Profile Switch   |    $44.19   |   Free   | 1 x 70pcs  |    AliExpress    |                      | [Kailh Choc Low Profile Switch](https://www.aliexpress.com/item/1005008576630923.html) |
+|                          |           1N4148 Diodes           |    $2.84    |   Free   | 1 x 100pcs |    AliExpress    |                      | [1N4148 Diodes](https://www.aliexpress.com/item/4000142272546.html) |
+|     Top Screeen PCB ↓    |       Raspberry Pi Zero 2 W       |    $29.45   |   Free   |     1      | Core Electronics | Somehow cheaper than AliExpress and is local | [Raspberry Pi Zero 2 W](https://core-electronics.com.au/raspberry-pi-zero-2-w-wireless.html) |
+|                          |     3.7V 2400mAh LiPo Battery     |    $21.95   |   Free   |     1      | Core Electronics | Cheaper AliExpress options don't deliver until September | [3.7V 2400mAh LiPo Battery](https://core-electronics.com.au/polymer-lithium-ion-battery-2400mah.html) |
+|                          |      Micro USB Plug Breakout      |    $13.99   |   Free   |  1 x 4pcs  |     AmazonAU     | Only option but should arrive July 30 - Aug 5 so hopefully it comes in time. | [USB MicroB Plug Breakout Board](https://www.amazon.com.au/Treedix-Breakout-Connector-Compatible-Electronics/dp/B09W2QHL2P) |
+|                          |   Type-C TP4056 Charging Module   |    $1.34    |   Free   |     1      |    AliExpress    |                      | [DIY Type-C USB 5V 1A 18650 TP4056](https://www.aliexpress.com/item/1005008058129330.html) |
+|                          |        MT3608 Boost Module        |    $2.79    |   Free   |     1      |    AliExpress    |                      | [MT3608 Boost Module](https://www.aliexpress.com/item/1005006361814667.html) |
+|                          |     24 Pin FPC Cable Connector    |    $1.17    |   Free   |  1 x 5pcs  | LCSC Electronics | This may be wrong, need to check | [BOOMELE(Boom Precision Elec) 0.5-24P FG](https://www.lcsc.com/product-detail/FFC-FPC-Flat-Flexible-Connector-Assemblies_BOOMELE-Boom-Precision-Elec-0-5-24P-FG_C20688.html) |
+|                          |        Battery Cable Socket       |    $1.85    |   Free   |     1      | Core Electronics | This may be wrong, need to check | [JST Right-Angle Connector - SMD 2-Pin](https://core-electronics.com.au/jst-right-angle-connector-smd-2-pin-black.html) |
+|                          |      4.2inch E-Paper Display      |    $39.19   |   $5.86  |     1      |    AliExpress    |                      | [4.2 inch 3-Colour E-Ink display module (400x300 Pixels)](https://www.aliexpress.com/item/1005008589532618.html) |
+| Dice Roller Screen PCB ↓ |         Adafruit KB2040           |    $20.05   |   Free   |     1      | Core Electronics |                      | [RP2040 Kee Boar Driver](https://core-electronics.com.au/adafruit-kb2040-rp2040-kee-boar-driver.html) |
+|                          | OLED Display 128X32 0.91" SSD1306 |    $3.42    |   Free   |     1      |    AliExpress    |                      | [0.91 inch OLED Display Module - White](https://www.aliexpress.com/item/1005006010896161.html) |
+|                          |    MCP23017-E/SO I/O Expander     |    $4.79    |   Free   |     1      |    AliExpress    |                      | [MCP23017-E/SO SOP28](https://www.aliexpress.com/item/1005008727662692.html) |
+|                          |  Metal Film Resistors 4.7kΩ 0.25W |    $0.48    |   Free   |  1 x 50pcs | LCSC Electronics |                      | [UNI-ROYAL(Uniroyal Elec) MFR0W4F4701A50](https://www.lcsc.com/product-detail/Through-Hole-Resistors_UNI-ROYAL-Uniroyal-Elec-MFR0W4F4701A50_C57204.html) |
+|     PCB Connectors ↓     |    26 Pin FFC Cable Connector     |    $7.14    |   Free   |  1 x 2pcs  |    DigiKey Aus   |                      | [FH12-26S-0.5SH(55)](https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/FH12-26S-0-5SH-55/1110323?srsltid=AfmBOopqF7o7ptaexeaPUv0DdIia_AySKFMMV1k5vwqKbBNBlBynJ4EH) |
+|                          |     9 Pin FFC Cable Connector     |    $7.44    |   Free   |  1 x 4pcs  |    DigiKey Aus   |                      | [FH19C-9S-0.5SH(10)](https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/FH19C-9S-0-5SH-10/4283425?srsltid=AfmBOoqcyKZkMxO_LfuhkB4uOfiW8o3IG8r2A8k8QkMFRSA8k5cvBsd-) |
+|                          |    10 Pin FFC Cable Connector     |    $4.36    |   Free   |  1 x 2pcs  |    DigiKey Aus   |                      | [FH12-10S-0.5SH(55)](https://www.digikey.com.au/en/products/detail/hirose-electric-co-ltd/FH12-10S-0-5SH-55/1110314?srsltid=AfmBOoqEdsP7pIlvfwTyiOzf9GYr_4whu2x5bs80QqxoZjZm51vtzrAO) |
+|          PCBs ↓          |         Centre Keyboard           |    $15.09   |  $12.66  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |          Left Keyboard            |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |          Right Keyboard           |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |        Dice Roller Screen         |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |            Top Screen             |    %15.71   |  $12.10  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+
 ## About the Design Process
 
 You can find my whole designing process in my [Journal.md](https://github.com/esemv07/QuestDeck/blob/main/JOURNAL.md) file, and my parts list with links in my [BOM.md](https://github.com/esemv07/QuestDeck/blob/main/BOM.md) file.
