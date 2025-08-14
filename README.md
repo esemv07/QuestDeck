@@ -45,6 +45,8 @@ I love playing TTRPGs such as DnD as well as solo TTRPGs. I like to take notes o
 
 ## Bill of Materials
 
+### Total Cost: $175.51USD ($270.17AUD)
+
 |         Category         |               Item                | Price (AUD) | Shipping |  Quantity  |      Vendor      | Notes/Considerations |         Link         |
 |--------------------------|-----------------------------------|-------------|----------|------------|------------------|----------------------|----------------------|
 |      Keyboard PCBs ↓     |   Kailh Choc Low Profile Switch   |    $44.19   |   Free   | 1 x 70pcs  |    AliExpress    |                      | [Kailh Choc Low Profile Switch](https://www.aliexpress.com/item/1005008576630923.html) |
