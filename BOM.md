@@ -1,5 +1,7 @@
 # Bill of Materials
 
+### Total Cost: $175.51USD ($270.17AUD)
+
 |         Category         |               Item                | Price (AUD) | Shipping |  Quantity  |      Vendor      | Notes/Considerations |         Link         |
 |--------------------------|-----------------------------------|-------------|----------|------------|------------------|----------------------|----------------------|
 |      Keyboard PCBs ↓     |   Kailh Choc Low Profile Switch   |    $44.19   |   Free   | 1 x 70pcs  |    AliExpress    |                      | [Kailh Choc Low Profile Switch](https://www.aliexpress.com/item/1005008576630923.html) |
@@ -23,4 +25,4 @@
 |                          |          Left Keyboard            |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
 |                          |          Right Keyboard           |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
 |                          |        Dice Roller Screen         |    $4.98    |   $2.33  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
-|                          |            Top Screen             |    %15.71   |  $12.10  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
+|                          |            Top Screen             |    $15.71   |  $12.10  |  1 x 5pcs  |      JLCPCB      |                      | N/A |
